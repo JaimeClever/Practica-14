@@ -15,7 +15,6 @@ public class Medico {
     private String nombre;
     private String especialidad;
 
-    // Horario de atención (simplificado)
     private LocalTime horaInicio;
     private LocalTime horaFin;
 }

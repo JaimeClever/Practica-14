@@ -10,7 +10,6 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/api/citas")
-@CrossOrigin("*")
 public class CitaController {
 
     private final CitaService citaService;
